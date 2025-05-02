@@ -1,7 +1,12 @@
+if (age < 70){
+    console.log("Definitely too young")
+}
+
 if(age >= 70){
-    console.log("Too old")
+    console.log("Might be too old")
 }
 
 if(age == 70){
     console.log("Just right")
 }
+
