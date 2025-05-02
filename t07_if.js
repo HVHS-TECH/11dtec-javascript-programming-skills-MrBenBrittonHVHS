@@ -10,3 +10,4 @@ if(age == 70){
     console.log("Just right")
 }
 
+console.log("You have ", pocketMoney, " dollars");
